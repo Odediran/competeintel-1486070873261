@@ -1,16 +1,10 @@
 {
-	"name": "NodejsStarterApp",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "node app.js"
-	},
-	"dependencies": {
-		"express": "4.13.x",
-		"cfenv": "1.0.x"
-	},
-	"repository": {},
-	"engines": {
-		"node": "4.x"
-	} 
+  "name": "wen",
+  "version": "0.0.1",
+  "description": "wen",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.10.2",
+    "mssql": "^3.3.0",
+  }
 }
